@@ -1,0 +1,36 @@
+body {
+background-color:#000066
+}
+body { 
+font-family:Anton, sans-serif;
+}
+body {
+color:white;
+}
+footer {
+color:blue;
+}
+body {
+font-size: 20px;
+}
+header {
+float: right; width: 50%;padding-bottom: 50px;
+}
+img {
+max-width: 100%;
+}
+@media screen and (min-width:768px) and (max-width: 1024px) {
+body { 
+width : 80%;
+}
+}
+
+@media screen and (min-width:320px) and (max-width: 480px) {
+body { 
+width : 50%;
+}
+}
+
+h1 {
+text-align:left 
+}
